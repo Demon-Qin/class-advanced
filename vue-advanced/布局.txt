@@ -1,0 +1,19 @@
+## 布局
+
+![1615729928404](D:\Note\class-advanced\vue-advanced\布局.assets\1615729928404.png)
+
+![1615730059253](D:\Note\class-advanced\vue-advanced\布局.assets\1615730059253.png)
+
+![1615731243780](D:\Note\class-advanced\vue-advanced\布局.assets\1615731243780.png)
+
+圣杯布局：
+
+ margin-left 取值为百分⽐时，是以其⽗元素的宽 度为基准的 
+
+flex：；可以适应其它元素。
+
+瀑布流布局，全新的一个东西还要再消化消化
+
+![1615734602505](D:\Note\class-advanced\vue-advanced\布局.assets\1615734602505.png)
+
+![1615735812961](D:\Note\class-advanced\vue-advanced\布局.assets\1615735812961.png)
